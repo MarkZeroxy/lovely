@@ -73,7 +73,7 @@ button:active {
     position: absolute;
     bottom: 10px;
     right: 10px;
-    width: 120px; /* Increase this value to make the image larger */
+    width: 50px; /* Increase this value to make the image larger */
     height: auto;
     animation: float 3s infinite ease-in-out;
 }
